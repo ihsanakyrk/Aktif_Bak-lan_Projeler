@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "70a8308c-b00f-425f-a7a8-ee925fe4bac6")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 110.49 41.91)
+		(size 25.4 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "58e98a2a-3f99-4f8b-9377-2cb7d74d740e")
+		(property "Sheetname" "POWER"
+			(at 110.49 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 110.49 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IMX390_V1.0"
+				(path "/70a8308c-b00f-425f-a7a8-ee925fe4bac6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 41.91)
+		(size 25.4 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b7f1874e-828f-41ce-8a53-b9e3267e6a6b")
+		(property "Sheetname" "IMX390"
+			(at 60.96 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMX390.kicad_sch"
+			(at 60.96 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IMX390_V1.0"
+				(path "/70a8308c-b00f-425f-a7a8-ee925fe4bac6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
