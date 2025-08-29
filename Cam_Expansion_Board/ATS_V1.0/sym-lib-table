@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "ATS_V1.0-altium-import")(type "KiCad")(uri "${KIPRJMOD}/ATS_V1.0-altium-import.kicad_sym")(options "")(descr ""))
-)
